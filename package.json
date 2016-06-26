@@ -1,0 +1,15 @@
+{
+  "name": "checkwords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "q": "^1.4.1",
+    "gulp": "^3.9.1",
+    "colors": "^1.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
